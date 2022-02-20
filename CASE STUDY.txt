@@ -1,0 +1,2 @@
+We are currently experiencing a pandemic outbreak of the Covid-19 virus. This virus spreads easily and quickly, so data collection is very necessary. You are one of the IT staff in your local government, you are asked by your leadership to create a C++-based program that will be used as a recording aid for patients from Covid-19.
+Your leader asks for several things that must be included in the program you make, such as data input, data output and data search.
